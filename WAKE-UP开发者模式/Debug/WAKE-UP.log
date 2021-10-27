@@ -1,0 +1,6 @@
+﻿  WAKE-UP.cpp
+C:\Users\LENOVO\Desktop\WAKE-UP开发者模式\WAKE-UP.cpp(161,14): warning C4101: “m”: 未引用的局部变量
+C:\Users\LENOVO\Desktop\WAKE-UP开发者模式\WAKE-UP.cpp(520,85): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\LENOVO\Desktop\WAKE-UP开发者模式\WAKE-UP.cpp(920,86): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\LENOVO\Desktop\WAKE-UP开发者模式\WAKE-UP.cpp(945,102): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  WAKE-UP.vcxproj -> C:\Users\LENOVO\Desktop\WAKE-UP开发者模式\Debug\WAKE-UP.exe

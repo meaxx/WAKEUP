@@ -1,0 +1,32 @@
+﻿  WAKE-UP.cpp
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(148,41): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(148,41): message : 尝试匹配参数列表“(IMAGE *, const char [16])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(149,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(149,50): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(150,46): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(150,46): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(151,45): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(151,45): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(152,45): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(152,45): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(153,45): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(153,45): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(154,45): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(154,45): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(155,45): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(155,45): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(156,45): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(156,45): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(643,42): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(234,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\easyx.h(233,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(643,42): message : 尝试匹配参数列表“(int, int, const char [11])”时

@@ -1,0 +1,5 @@
+﻿  WAKE-UP.cpp
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(518,85): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(909,86): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\WAKE-UP.cpp(934,102): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  WAKE-UP.vcxproj -> C:\Users\LENOVO\Desktop\WAKE-UP\WAKE-UP\WAKE-UP\Debug\WAKE-UP.exe
